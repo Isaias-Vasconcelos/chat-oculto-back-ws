@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Isaias-DeveLoper/chat-oculto-back-ws/issues"
   },
-  "homepage": "https://github.com/Isaias-DeveLoper/chat-oculto-back-ws#readme"
+  "homepage": "https://github.com/Isaias-DeveLoper/chat-oculto-back-ws#readme",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
 }
