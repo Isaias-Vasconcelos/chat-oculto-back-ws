@@ -1,0 +1,20 @@
+{
+  "name": "chat-oculto-back-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaias-DeveLoper/chat-oculto-back-ws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaias-DeveLoper/chat-oculto-back-ws/issues"
+  },
+  "homepage": "https://github.com/Isaias-DeveLoper/chat-oculto-back-ws#readme"
+}
